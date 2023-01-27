@@ -6,7 +6,7 @@
 
 - 💬 Ask me about: **ExpressJS, NodeJS, Javascript, C++, Python**
 - 📫 How to reach me: **Find me on [<img alt="Otniel | LinkedIn" height="15px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/otniel-kevin-abiel-1b8567218)**
-- ⚡ Fun fact: **I'm alson an Aviation Geek, ex simulator player.**
+- ⚡ Fun fact: **I'm also an Aviation Geek, ex simulator player.**
 
 ---
 
@@ -17,14 +17,14 @@
 
 ---
 
-### Blogs posts
+<!-- ### Blogs posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Nodejs Docker build times — Layering explained.](https://medium.com/@visualbean/optimizing-nodejs-docker-build-times-layering-explained-185d60a56e99?source=rss-35f0ba80b9cd------2)
-- [Keeping up with trends](https://medium.com/@visualbean/keeping-up-with-trends-19f9a7274577?source=rss-35f0ba80b9cd------2)
-- [5 Quick NodeJS tips](https://medium.com/@visualbean/5-quick-nodejs-tips-fadbcd513d65?source=rss-35f0ba80b9cd------2)
-- [C# String Concatenation](https://medium.com/@visualbean/c-string-concatenation-8873c9871240?source=rss-35f0ba80b9cd------2)
-- [Documenting role based authentication with Swagger](https://medium.com/@visualbean/documenting-role-based-authentication-with-swagger-fa1d6c835cfd?source=rss-35f0ba80b9cd------2)
+<!-- - [Optimizing Nodejs Docker build times — Layering explained.](https://medium.com/@visualbean/optimizing-nodejs-docker-build-times-layering-explained-185d60a56e99?source=rss-35f0ba80b9cd------2) -->
+<!-- - [Keeping up with trends](https://medium.com/@visualbean/keeping-up-with-trends-19f9a7274577?source=rss-35f0ba80b9cd------2) -->
+<!-- - [5 Quick NodeJS tips](https://medium.com/@visualbean/5-quick-nodejs-tips-fadbcd513d65?source=rss-35f0ba80b9cd------2) -->
+<!-- - [C# String Concatenation](https://medium.com/@visualbean/c-string-concatenation-8873c9871240?source=rss-35f0ba80b9cd------2) -->
+<!-- - [Documenting role based authentication with Swagger](https://medium.com/@visualbean/documenting-role-based-authentication-with-swagger-fa1d6c835cfd?source=rss-35f0ba80b9cd------2) -->
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
