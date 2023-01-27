@@ -18,7 +18,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rarjen&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true&card_width=500)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rarjen&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarjen&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rarjen&theme=onestar&no-frame=true&column=3&row=2)
