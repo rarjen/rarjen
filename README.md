@@ -5,9 +5,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 📝 I regulary write articles on: [https://medium.com/@visualbean](https://medium.com/@visualbean)
-- 💬 Ask me about: **Express, Powershell, C#, Architecture, Azure**
+- 💬 Ask me about: **ExpressJS, NodeJS, Javascript, C++, Python**
 - 📫 How to reach me: **Find me on [<img alt="Otniel | LinkedIn" height="15px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/otniel-kevin-abiel-1b8567218)**
-- ⚡ Fun fact: **I love to go climbing, even though I am afraid of heights.**
+- ⚡ Fun fact: **I'm alson an Aviation Geek, ex simulator player.**
 
 ---
 
