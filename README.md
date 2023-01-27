@@ -19,7 +19,7 @@
 ---
 
 [![rarjen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rarjen)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarjen-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarjen&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 <!-- ### Blogs posts -->
 
