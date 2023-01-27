@@ -18,7 +18,7 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
 <a href="https://github.com/rarjen">
@@ -27,11 +27,20 @@
 </a>
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/rarjen">
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=rarjen&theme=onestar&no-frame=true&column=3&row=2"/>
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rarjen&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</a>
+</p>
+
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rarjen&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarjen&layout=compact&theme=gotham&hide=html&hide_border=true&card_width=330) -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rarjen&theme=onestar&no-frame=true&column=3&row=2)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rarjen&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=rarjen&theme=onestar&no-frame=true&column=3&row=2)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rarjen&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
 
 <!-- ### Blogs posts -->
 
@@ -42,6 +51,8 @@
 <!-- - [C# String Concatenation](https://medium.com/@visualbean/c-string-concatenation-8873c9871240?source=rss-35f0ba80b9cd------2) -->
 <!-- - [Documenting role based authentication with Swagger](https://medium.com/@visualbean/documenting-role-based-authentication-with-swagger-fa1d6c835cfd?source=rss-35f0ba80b9cd------2) -->
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
