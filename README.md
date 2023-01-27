@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://github.com/rarjen">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rarjen&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarjen&layout=compact&theme=gotham&hide=html&hide_border=true&card_width=330"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarjen&layout=compact&theme=gotham&hide=html&hide_border=true"/>
 </a>
 </p>
 
