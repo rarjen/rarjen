@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 💬 Ask me about: **ExpressJS, NodeJS, Javascript, C++, Python**
-- 📫 How to reach me: **Find me on [<img alt="Otniel | LinkedIn" height="15px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/otniel-kevin-abiel-1b85672181)**
+- 📫 How to reach me: **Find me on [<img alt="Otniel | LinkedIn" height="15px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/otniel-kevin-abiel-1b8567218)**
 - ⚡ Fun fact: **I'm also an Aviation Geek, ex simulator player.**
 
 ---
@@ -57,7 +57,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/rarjen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rarjen" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/otniel-kevin-abiel-1b85672181" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otniel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/otniel-kevin-abiel-1b8567218" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otniel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17105990/lei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="lei" height="30" width="40" /></a>
 </p>
 
