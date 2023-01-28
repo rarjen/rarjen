@@ -8,6 +8,7 @@
 
 - 💬 Ask me about: **ExpressJS, NodeJS, Javascript, C++, Python**
 - 📫 How to reach me: **Find me on [<img alt="Otniel | LinkedIn" height="15px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/otniel-kevin-abiel-1b8567218)**
+- 🌱 I’m currently learning MERN, Go, Laravel
 - 👯 I’m looking to collaborate on Projects
 - ⚡ Fun fact: **I'm also an Aviation Geek, ex simulator player.**
 
