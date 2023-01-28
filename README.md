@@ -18,9 +18,9 @@
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
-### Spotify Playing 🎧
+### Currently Watching 🎧
 
-<img align="center" src="https://64.media.tumblr.com/5c04dda9e3bdf9f982112c78b7328f8f/31f7605f27d507ea-56/s540x810/2b58c06be40ed4a94641c4c914fa035ac4047915.gif">
+<img align="center" width:"540px" src="https://64.media.tumblr.com/5c04dda9e3bdf9f982112c78b7328f8f/31f7605f27d507ea-56/s540x810/2b58c06be40ed4a94641c4c914fa035ac4047915.gif">
 <!-- [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871) -->
 <!-- <img src="https://avatars.githubusercontent.com/u/16325531?v=4"/> -->
 
