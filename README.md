@@ -55,7 +55,7 @@
 ---
 
 <p align="left">
-<h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me:</h3>
+<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <a href="https://codepen.io/rarjen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rarjen" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/otniel-kevin-abiel-1b8567218" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otniel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17105990/lei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="lei" height="30" width="40" /></a>
