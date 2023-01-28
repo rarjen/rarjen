@@ -18,7 +18,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+<!-- [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871) -->
+<img src="https://avatars.githubusercontent.com/u/16325531?v=4"/>
 
 ---
 
