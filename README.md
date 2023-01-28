@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Otniel Kevin Abiel</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Otniel Kevin Abiel</h1>
 <h3 align="center">Backend Web Development</h3>
 <h4 align="center">Currently Learning about MERN</h4>
 </br>
