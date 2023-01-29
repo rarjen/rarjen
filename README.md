@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-<!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=rarjen) -->
+[![Profile views](https://visitor-badge.glitch.me/badge?page_id=rarjen)
 [![Github](https://img.shields.io/github/followers/rarjen?label=Follow&style=social)](https://github.com/rarjen)
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Otniel Kevin Abiel</h1>
 <h3 align="center">Backend Web Development</h3>
