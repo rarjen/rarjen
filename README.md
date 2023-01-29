@@ -76,8 +76,5 @@
 
 ---
 
- <p align="center">
-  <img src="https://github.com/rarjen/rarjen/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
