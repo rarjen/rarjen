@@ -3,7 +3,7 @@
 <!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=rarjen) -->
 [![Github](https://img.shields.io/github/followers/rarjen?label=Follow&style=social)](https://github.com/rarjen)
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Otniel Kevin Abiel</h1>
-<h3 align="center">Backend Web Development</h3>
+<h3 align="center">Backend Web Developer</h3>
 <h4 align="center">Currently Learning about MERN</h4>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
